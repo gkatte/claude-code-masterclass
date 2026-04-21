@@ -138,7 +138,6 @@
 
 **Part 1 -- Foundations: Understanding Claude Code from the Ground Up**
 
-*A Netflix/Pinterest Engineering-style technical deep dive for practitioners*
 
 ---
 
